@@ -1,0 +1,13 @@
+period,actual_spend,forecast_spend,lower_bound_95,upper_bound_95,is_forecast,model_used
+2026-04,11114.11,11114.11,11114.11,11114.11,Actual,Holt's Linear Trend (Double Exponential Smoothing)
+2026-05,15277.03,15277.03,15277.03,15277.03,Actual,Holt's Linear Trend (Double Exponential Smoothing)
+2026-06,11937.37,11937.37,11937.37,11937.37,Actual,Holt's Linear Trend (Double Exponential Smoothing)
+2026-07,14659.25,14659.25,14659.25,14659.25,Actual,Holt's Linear Trend (Double Exponential Smoothing)
+2026-08,9230.75,9230.75,9230.75,9230.75,Actual,Holt's Linear Trend (Double Exponential Smoothing)
+2026-09,12911.91,12911.91,12911.91,12911.91,Actual,Holt's Linear Trend (Double Exponential Smoothing)
+2026-10,,22667.91,11845.66,33490.16,Forecast,Holt's Linear Trend (Double Exponential Smoothing)
+2026-11,,24844.35,9539.37,40149.33,Forecast,Holt's Linear Trend (Double Exponential Smoothing)
+2026-12,,27020.8,8276.11,45765.49,Forecast,Holt's Linear Trend (Double Exponential Smoothing)
+2027-01,,29197.24,7552.73,50841.75,Forecast,Holt's Linear Trend (Double Exponential Smoothing)
+2027-02,,31373.69,7174.39,55572.99,Forecast,Holt's Linear Trend (Double Exponential Smoothing)
+2027-03,,33550.13,7041.13,60059.13,Forecast,Holt's Linear Trend (Double Exponential Smoothing)

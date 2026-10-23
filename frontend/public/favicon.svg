@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Full dark circle base -->
+  <circle cx="60" cy="60" r="58" fill="#2a2a2a"/>
+  <!-- Red right half (bar chart area) -->
+  <path d="M60 2 A58 58 0 0 1 60 118 L60 2 Z" fill="#e8453c"/>
+
+  <!-- White vertical bars over red half -->
+  <rect x="63" y="40" width="8" height="40" rx="1.5" fill="white" opacity="0.95"/>
+  <rect x="74" y="49" width="8" height="31" rx="1.5" fill="white" opacity="0.95"/>
+  <rect x="85" y="55" width="8" height="25" rx="1.5" fill="white" opacity="0.95"/>
+  <rect x="96" y="62" width="6" height="18" rx="1.5" fill="white" opacity="0.90"/>
+
+  <!-- Checkmark: short left leg -->
+  <path d="M18 58 L36 76" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Checkmark: long right leg (dark on dark, white on red) -->
+  <path d="M34 76 L84 24" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- White overlay on the red half portion of the checkmark -->
+  <path d="M60 50 L84 24" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Dark left half-circle background -->
+  <path d="M60 15 A45 45 0 0 0 60 105 A45 45 0 0 1 60 15 Z" fill="#222222"/>
+  <!-- Full dark circle base -->
+  <circle cx="60" cy="60" r="45" fill="#2a2a2a"/>
+  <!-- Red right half (bar chart area) -->
+  <path d="M60 15 A45 45 0 0 1 60 105 L60 15 Z" fill="#e8453c"/>
+
+  <!-- White vertical bars over red half -->
+  <!-- Bar 1 -->
+  <rect x="63" y="42" width="7" height="36" rx="1" fill="white" opacity="0.95"/>
+  <!-- Bar 2 -->
+  <rect x="73" y="50" width="7" height="28" rx="1" fill="white" opacity="0.95"/>
+  <!-- Bar 3 -->
+  <rect x="83" y="56" width="7" height="22" rx="1" fill="white" opacity="0.95"/>
+  <!-- Bar 4 -->
+  <rect x="93" y="62" width="5" height="16" rx="1" fill="white" opacity="0.90"/>
+
+  <!-- Large checkmark swept across the full circle (dark color on left, white on right) -->
+  <!-- Checkmark left leg (short downward stroke) -->
+  <path d="M22 58 L38 74" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Checkmark right leg (long upward stroke crossing into red) -->
+  <path d="M36 74 L82 28" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- White overlay for the right portion of check on red bg -->
+  <path d="M60 52 L82 28" stroke="white" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

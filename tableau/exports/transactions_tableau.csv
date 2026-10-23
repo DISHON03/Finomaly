@@ -1,0 +1,1201 @@
+transaction_id,date,clean_merchant,amount,transaction_type,category,subcategory,budget_bucket,is_recurring,payment_channel,city,state,year,month,year_month,day_name,is_weekend
+TX_12514,2025-11-13,Steam Games,67.46,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12515,2025-11-13,Starbucks,7.69,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12516,2025-11-13,Blue Bottle Coffee,7.3,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12517,2025-11-13,Ticketmaster,202.49,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12518,2025-11-13,Costco Wholesale,265.0,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12519,2025-11-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12520,2025-11-14,Starbucks,9.35,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12521,2025-11-14,Local Italian Trattoria,114.37,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12522,2025-11-14,DoorDash,43.69,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12523,2025-11-14,Chipotle,15.1,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12524,2025-11-15,TechNova Corp,4892.51,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12525,2025-11-15,Mobil,50.03,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12526,2025-11-15,Blue Bottle Coffee,8.12,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12527,2025-11-15,AMC Theatres,28.37,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12528,2025-11-15,Walgreens,25.29,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12529,2025-11-15,Mobil,64.62,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,nan,NY,2025,11,2025-11,Saturday,Weekend
+TX_12530,2025-11-16,MTA Metro,3.34,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12531,2025-11-16,AMC Theatres,43.48,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12532,2025-11-16,Blue Bottle Coffee,12.28,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12533,2025-11-16,DoorDash,74.99,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12534,2025-11-16,Target,95.87,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,nan,NY,2025,11,2025-11,Sunday,Weekend
+TX_12535,2025-11-16,Walgreens,46.21,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12536,2025-11-16,Costco Wholesale,215.66,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12537,2025-11-16,DoorDash,74.26,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12538,2025-11-17,Blue Bottle Coffee,11.39,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12539,2025-11-17,Apple Store,151.84,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12540,2025-11-17,Salon / Barber,59.3,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12541,2025-11-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2025,11,2025-11,Tuesday,Weekday
+TX_12542,2025-11-18,Uber Eats,49.18,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12543,2025-11-18,Starbucks,9.27,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12544,2025-11-18,Steam Games,54.58,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12545,2025-11-18,Salon / Barber,65.44,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12546,2025-11-19,Blue Bottle Coffee,11.01,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12547,2025-11-19,Zara,121.14,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12548,2025-11-19,DoorDash,46.57,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12549,2025-11-19,Uber Eats,35.7,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12550,2025-11-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12551,2025-11-20,Uber Eats,47.87,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12552,2025-11-20,Sushi Katsu,139.51,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12553,2025-11-20,Target,130.1,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12554,2025-11-20,Starbucks,7.82,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12555,2025-11-20,Blue Bottle Coffee,10.55,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12556,2025-11-20,Local Italian Trattoria,168.77,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12557,2025-11-20,Dental Associates,200.75,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12558,2025-11-21,Local Italian Trattoria,161.85,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12559,2025-11-21,Steam Games,68.01,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12560,2025-11-21,Local Italian Trattoria,83.76,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12561,2025-11-21,Blue Bottle Coffee,7.42,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12562,2025-11-21,Sushi Katsu,135.42,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12563,2025-11-22,Costco Wholesale,193.85,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12564,2025-11-22,Lyft,14.53,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12565,2025-11-22,Uniqlo,71.73,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12566,2025-11-22,AMC Theatres,52.33,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12567,2025-11-22,Starbucks,5.85,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12568,2025-11-23,Lyft,20.88,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12569,2025-11-23,Sushi Katsu,119.31,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12570,2025-11-23,Uber Eats,65.82,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12571,2025-11-23,CVS Pharmacy,27.02,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12572,2025-11-23,Starbucks,6.78,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12573,2025-11-23,Apple Store,1004.62,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12574,2025-11-24,Freelance Consulting,573.29,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2025,11,2025-11,Monday,Weekday
+TX_12575,2025-11-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12576,2025-11-24,Steam Games,60.44,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12577,2025-11-24,Blue Bottle Coffee,12.34,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12578,2025-11-24,Sweetgreen,20.93,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12579,2025-11-24,Salon / Barber,67.48,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12580,2025-11-24,Dental Associates,119.67,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Monday,Weekday
+TX_12581,2025-11-25,Trader Joe's,48.64,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12582,2025-11-25,Best Buy,87.34,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12583,2025-11-25,Zara,95.06,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12584,2025-11-25,Sushi Katsu,102.22,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12585,2025-11-25,Blue Bottle Coffee,9.09,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12586,2025-11-25,Sushi Katsu,93.17,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Tuesday,Weekday
+TX_12587,2025-11-26,Target,159.57,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12588,2025-11-26,AMC Theatres,53.44,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12589,2025-11-26,Amazon,181.36,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12590,2025-11-26,Chipotle,22.78,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12591,2025-11-26,Trader Joe's,89.17,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Wednesday,Weekday
+TX_12592,2025-11-27,Sushi Katsu,89.34,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12593,2025-11-27,Local Italian Trattoria,127.81,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12594,2025-11-27,Lyft,18.61,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12595,2025-11-27,Costco Wholesale,196.48,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12596,2025-11-27,Zara,154.92,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12597,2025-11-27,Salon / Barber,45.53,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Thursday,Weekday
+TX_12598,2025-11-28,Amazon,88.88,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12599,2025-11-28,Amazon,180.41,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12600,2025-11-28,Amazon,68.78,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12601,2025-11-28,Amazon,87.61,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12602,2025-11-28,Uber Eats,48.54,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Friday,Weekday
+TX_12603,2025-11-29,Lyft,33.64,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12604,2025-11-29,Shell Oil,42.22,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12605,2025-11-29,Sushi Katsu,76.18,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,nan,NY,2025,11,2025-11,Saturday,Weekend
+TX_12606,2025-11-29,Apple Store,1313.9,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Saturday,Weekend
+TX_12607,2025-11-30,Ally Bank,70.27,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2025,11,2025-11,Sunday,Weekend
+TX_12608,2025-11-30,Trader Joe's,56.45,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12609,2025-11-30,Amazon,54.57,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12610,2025-11-30,Nike,237.34,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12611,2025-11-30,Mobil,49.18,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12612,2025-11-30,Zara,100.06,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,nan,NY,2025,11,2025-11,Sunday,Weekend
+TX_12613,2025-11-30,Amazon,19.5,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12614,2025-11-30,Steam Games,62.75,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,11,2025-11,Sunday,Weekend
+TX_12615,2025-12-01,TechNova Corp,4876.38,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12616,2025-12-01,Avalon Bay Communities,2204.57,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12617,2025-12-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12618,2025-12-01,Salon / Barber,74.84,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12619,2025-12-01,Shell Oil,37.27,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12620,2025-12-01,Uber,24.89,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12621,2025-12-01,MTA Metro,15.27,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12622,2025-12-01,Chipotle,26.13,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12623,2025-12-02,Trader Joe's,54.58,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12624,2025-12-02,AMC Theatres,43.14,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12625,2025-12-02,Apple Store,1583.25,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12626,2025-12-02,Ally HYSA Transfer,1185.94,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12627,2025-12-03,Shell Oil,53.21,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12628,2025-12-03,Amazon,187.5,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12629,2025-12-03,Costco Wholesale,245.07,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12630,2025-12-03,AMC Theatres,28.65,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12631,2025-12-04,Nike,156.22,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12632,2025-12-04,Target,55.07,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12633,2025-12-04,Amazon,233.5,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,nan,NY,2025,12,2025-12,Thursday,Weekday
+TX_12634,2025-12-04,Blue Bottle Coffee,10.32,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12635,2025-12-04,Target Grocery,81.49,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12636,2025-12-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12637,2025-12-05,Sushi Katsu,74.62,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12638,2025-12-05,Costco Wholesale,263.77,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12639,2025-12-05,Costco Wholesale,165.64,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12640,2025-12-05,MTA Metro,12.83,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12641,2025-12-05,Best Buy,146.46,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12642,2025-12-06,Uber Eats,52.9,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12643,2025-12-06,Starbucks,6.35,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12644,2025-12-06,DoorDash,78.54,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12645,2025-12-06,Blue Bottle Coffee,9.47,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12646,2025-12-06,Best Buy,73.86,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12647,2025-12-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2025,12,2025-12,Sunday,Weekend
+TX_12648,2025-12-07,Trader Joe's,88.93,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12649,2025-12-07,Whole Foods,140.02,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12650,2025-12-07,Salon / Barber,62.81,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12651,2025-12-07,Whole Foods,67.27,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12652,2025-12-07,Target Grocery,46.67,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12653,2025-12-07,MTA Metro,8.34,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12654,2025-12-08,Ticketmaster,159.53,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12655,2025-12-08,MTA Metro,20.36,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12656,2025-12-08,MTA Metro,31.57,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12657,2025-12-08,Chipotle,18.95,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12658,2025-12-08,Apple Store,158.31,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12659,2025-12-08,DoorDash,37.42,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12660,2025-12-09,Uber Eats,26.48,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12661,2025-12-09,Nike,128.98,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12662,2025-12-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12663,2025-12-10,Target Grocery,72.07,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12664,2025-12-10,Nike,240.98,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12665,2025-12-10,Apple Store,1125.36,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12666,2025-12-11,Starbucks,6.55,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12667,2025-12-11,Uber Eats,56.29,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12668,2025-12-11,Local Italian Trattoria,123.06,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12669,2025-12-12,ConEdison,179.44,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12670,2025-12-12,Zara,213.54,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12671,2025-12-12,DoorDash,45.62,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12672,2025-12-13,Best Buy,308.62,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12673,2025-12-13,Whole Foods,109.87,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12674,2025-12-13,Mobil,66.83,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12675,2025-12-13,Walgreens,52.04,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12676,2025-12-13,Dental Associates,144.3,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12677,2025-12-13,Uber,41.84,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12678,2025-12-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12679,2025-12-14,Lyft,24.89,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12680,2025-12-14,Nike,100.55,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12681,2025-12-14,Best Buy,428.89,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12682,2025-12-14,Apple Store,1363.38,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12683,2025-12-15,TechNova Corp,8077.73,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,nan,NY,2025,12,2025-12,Monday,Weekday
+TX_12684,2025-12-15,Zara,161.84,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12685,2025-12-15,Costco Wholesale,142.5,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12686,2025-12-15,AMC Theatres,39.11,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12687,2025-12-15,Uber Eats,25.85,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12688,2025-12-15,Costco Wholesale,260.4,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12689,2025-12-15,Local Italian Trattoria,177.91,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12690,2025-12-15,Uber,18.04,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12691,2025-12-16,MTA Metro,11.46,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12692,2025-12-16,Shell Oil,45.64,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12693,2025-12-16,Uber,61.3,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,nan,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12694,2025-12-16,Salon / Barber,71.12,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12695,2025-12-17,Whole Foods,108.3,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12696,2025-12-17,Amazon,176.34,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12697,2025-12-17,Uber,31.06,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12698,2025-12-17,Steam Games,45.54,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12699,2025-12-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2025,12,2025-12,Thursday,Weekday
+TX_12700,2025-12-18,Trader Joe's,81.46,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12701,2025-12-18,Zara,196.74,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12702,2025-12-18,Mobil,66.69,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12703,2025-12-18,Target,122.97,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12704,2025-12-18,Shell Oil,69.65,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12705,2025-12-19,MTA Metro,29.02,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12706,2025-12-19,Lyft,34.96,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12707,2025-12-19,Apple Store,1215.21,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12708,2025-12-19,Dental Associates,219.29,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12709,2025-12-19,Blue Bottle Coffee,12.43,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12710,2025-12-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12711,2025-12-20,DoorDash,48.81,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12712,2025-12-20,Whole Foods,172.39,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12713,2025-12-20,Target,82.17,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12714,2025-12-20,Blue Bottle Coffee,8.98,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12715,2025-12-20,Target Grocery,73.42,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,nan,NY,2025,12,2025-12,Saturday,Weekend
+TX_12716,2025-12-20,Blue Bottle Coffee,13.99,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12717,2025-12-20,Apple Store,801.59,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12718,2025-12-21,Blue Bottle Coffee,12.05,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12719,2025-12-21,Lyft,46.8,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12720,2025-12-21,Local Italian Trattoria,129.24,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12721,2025-12-21,Best Buy,363.97,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12722,2025-12-22,MTA Metro,3.18,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12723,2025-12-22,Chipotle,16.45,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12724,2025-12-22,Uber Eats,33.18,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12725,2025-12-22,Uber,19.87,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12726,2025-12-22,Walgreens,51.34,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12727,2025-12-22,Mobil,69.79,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12728,2025-12-23,Best Buy,136.17,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12729,2025-12-23,Target Grocery,51.77,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12730,2025-12-23,Target,47.49,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12731,2025-12-23,Starbucks,8.18,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12732,2025-12-23,Blue Bottle Coffee,12.93,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12733,2025-12-23,Shell Oil,49.74,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12734,2025-12-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12735,2025-12-24,Starbucks,4.66,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12736,2025-12-24,Blue Bottle Coffee,11.22,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12737,2025-12-24,AMC Theatres,28.34,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12738,2025-12-24,DoorDash,43.03,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12739,2025-12-24,Target,130.32,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12740,2025-12-25,Freelance Consulting,1100.83,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2025,12,2025-12,Thursday,Weekday
+TX_12741,2025-12-25,Trader Joe's,113.1,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12742,2025-12-25,Walgreens,27.49,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12743,2025-12-25,Local Italian Trattoria,154.11,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Thursday,Weekday
+TX_12744,2025-12-26,AMC Theatres,50.59,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12745,2025-12-26,Mobil,52.1,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12746,2025-12-26,Zara,107.44,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12747,2025-12-26,DoorDash,58.03,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Friday,Weekday
+TX_12748,2025-12-27,Uber,15.73,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12749,2025-12-27,Amazon,48.68,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12750,2025-12-27,Steam Games,48.38,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12751,2025-12-27,Ticketmaster,258.81,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12752,2025-12-27,Target,158.67,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12753,2025-12-27,Trader Joe's,118.26,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12754,2025-12-27,Nike,132.12,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12755,2025-12-27,Best Buy,293.38,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Saturday,Weekend
+TX_12756,2025-12-28,Salon / Barber,36.81,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12757,2025-12-28,Salon / Barber,94.0,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12758,2025-12-28,Best Buy,125.03,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12759,2025-12-28,Sweetgreen,31.11,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Sunday,Weekend
+TX_12760,2025-12-29,Mobil,60.88,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12761,2025-12-29,Target,92.27,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Monday,Weekday
+TX_12762,2025-12-30,Best Buy,292.29,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,nan,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12763,2025-12-30,Sweetgreen,19.15,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12764,2025-12-30,Amazon,16.42,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12765,2025-12-30,Uber,15.16,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12766,2025-12-30,Salon / Barber,61.25,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Tuesday,Weekday
+TX_12767,2025-12-31,Ally Bank,76.22,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2025,12,2025-12,Wednesday,Weekday
+TX_12768,2025-12-31,Trader Joe's,121.92,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12769,2025-12-31,Trader Joe's,104.85,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12770,2025-12-31,Walgreens,36.21,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12771,2025-12-31,Zara,150.25,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12772,2025-12-31,Local Italian Trattoria,135.94,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12773,2025-12-31,DoorDash,46.12,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2025,12,2025-12,Wednesday,Weekday
+TX_12774,2026-01-01,TechNova Corp,5130.91,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12775,2026-01-01,Avalon Bay Communities,2356.32,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12776,2026-01-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12777,2026-01-01,DoorDash,39.52,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12778,2026-01-01,Uber,47.58,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12779,2026-01-01,Walgreens,50.13,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12780,2026-01-02,Starbucks,7.27,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12781,2026-01-02,Chipotle,24.98,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12782,2026-01-02,Ally HYSA Transfer,958.89,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12783,2026-01-03,Best Buy,193.92,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12784,2026-01-03,Amazon,60.5,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12785,2026-01-03,Dental Associates,119.52,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12786,2026-01-03,Costco Wholesale,130.68,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12787,2026-01-04,Blue Bottle Coffee,8.98,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12788,2026-01-04,Chipotle,32.29,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12789,2026-01-04,MTA Metro,32.07,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12790,2026-01-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12791,2026-01-05,Costco Wholesale,154.34,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12792,2026-01-05,Zara,112.92,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12793,2026-01-05,AMC Theatres,25.81,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12794,2026-01-05,Blue Bottle Coffee,7.92,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12795,2026-01-06,Trader Joe's,111.84,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12796,2026-01-06,Amazon,32.1,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12797,2026-01-06,Uber,61.11,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12798,2026-01-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,1,2026-01,Wednesday,Weekday
+TX_12799,2026-01-07,CityMD Urgent Care,130.29,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12800,2026-01-07,Costco Wholesale,238.73,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12801,2026-01-08,Steam Games,55.56,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12802,2026-01-09,Sushi Katsu,84.29,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12803,2026-01-09,Walgreens,48.29,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12804,2026-01-09,Walgreens,47.25,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12805,2026-01-09,Starbucks,5.27,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12806,2026-01-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12807,2026-01-10,Blue Bottle Coffee,8.05,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12808,2026-01-10,Sushi Katsu,125.06,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12809,2026-01-10,CityMD Urgent Care,121.99,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12810,2026-01-10,Dental Associates,266.54,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12811,2026-01-11,Blue Bottle Coffee,13.32,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12812,2026-01-11,Uber Eats,69.22,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12813,2026-01-11,Blue Bottle Coffee,6.64,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12814,2026-01-12,ConEdison,196.42,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12815,2026-01-12,AMC Theatres,25.32,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12816,2026-01-12,Best Buy,316.29,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12817,2026-01-12,Dental Associates,103.48,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12818,2026-01-13,Amazon,41.1,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,nan,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12819,2026-01-13,Ticketmaster,207.26,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,nan,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12820,2026-01-13,CVS Pharmacy,21.66,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12821,2026-01-13,AMC Theatres,28.9,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12822,2026-01-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12823,2026-01-14,Salon / Barber,61.41,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12824,2026-01-14,Starbucks,9.28,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12825,2026-01-14,Target,94.64,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12826,2026-01-15,TechNova Corp,5118.6,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12827,2026-01-15,Amazon,13.68,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12828,2026-01-15,Salon / Barber,47.2,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12829,2026-01-15,Marriott Hotel Stay,474.29,Expense,Travel & Vacation,Hotels,Wants,No,Credit Card,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12830,2026-01-16,Freelance Consulting,856.99,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,1,2026-01,Friday,Weekday
+TX_12831,2026-01-16,Starbucks,9.28,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12832,2026-01-16,Steam Games,37.95,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12833,2026-01-16,AMC Theatres,25.42,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12834,2026-01-17,CVS Pharmacy,33.08,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12835,2026-01-17,Uber Eats,48.99,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12836,2026-01-17,Salon / Barber,76.66,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12837,2026-01-17,Apple Store,467.11,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12838,2026-01-17,AMC Theatres,36.17,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12839,2026-01-17,Whole Foods,81.69,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12840,2026-01-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,1,2026-01,Sunday,Weekend
+TX_12841,2026-01-18,DoorDash,45.54,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12842,2026-01-18,Whole Foods,149.3,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12843,2026-01-18,Local Italian Trattoria,139.27,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12844,2026-01-18,Amazon,123.27,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12845,2026-01-19,Freelance Consulting,934.91,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,1,2026-01,Monday,Weekday
+TX_12846,2026-01-19,Trader Joe's,77.64,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12847,2026-01-19,MTA Metro,30.78,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12848,2026-01-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12849,2026-01-20,AMC Theatres,29.3,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12850,2026-01-20,DoorDash,34.24,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12851,2026-01-20,Amazon,165.06,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12852,2026-01-21,Uber,47.66,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12853,2026-01-21,Starbucks,5.63,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12854,2026-01-21,DoorDash,28.96,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12855,2026-01-22,Uber,47.26,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12856,2026-01-23,Blue Bottle Coffee,10.4,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12857,2026-01-23,Lyft,19.69,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12858,2026-01-23,MTA Metro,26.24,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12859,2026-01-23,Shell Oil,37.69,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12860,2026-01-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12861,2026-01-24,CityMD Urgent Care,112.31,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12862,2026-01-24,DoorDash,31.31,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12863,2026-01-24,Shell Oil,60.01,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12864,2026-01-24,Chipotle,21.91,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12865,2026-01-25,AMC Theatres,37.07,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12866,2026-01-25,Shell Oil,63.04,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12867,2026-01-25,Chipotle,22.35,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Sunday,Weekend
+TX_12868,2026-01-26,MTA Metro,10.48,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12869,2026-01-26,Steam Games,24.67,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12870,2026-01-26,DoorDash,25.12,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12871,2026-01-26,Sushi Katsu,93.84,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Monday,Weekday
+TX_12872,2026-01-27,Best Buy,347.15,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Tuesday,Weekday
+TX_12873,2026-01-28,Steam Games,57.44,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Wednesday,Weekday
+TX_12874,2026-01-29,Freelance Consulting,1250.04,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,1,2026-01,Thursday,Weekday
+TX_12875,2026-01-29,Uber Eats,27.84,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12876,2026-01-29,Dental Associates,87.73,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12877,2026-01-29,Lyft,42.61,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Thursday,Weekday
+TX_12878,2026-01-30,DoorDash,28.36,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Friday,Weekday
+TX_12879,2026-01-31,Ally Bank,73.56,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,1,2026-01,Saturday,Weekend
+TX_12880,2026-01-31,Costco Wholesale,313.06,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12881,2026-01-31,Best Buy,263.77,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12882,2026-01-31,DoorDash,53.93,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12883,2026-01-31,DoorDash,35.67,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,1,2026-01,Saturday,Weekend
+TX_12884,2026-02-01,TechNova Corp,5111.44,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12885,2026-02-01,Avalon Bay Communities,2388.17,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12886,2026-02-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12887,2026-02-01,Amazon,104.35,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12888,2026-02-01,Zara,131.33,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12889,2026-02-01,Apple Store,415.4,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12890,2026-02-01,Target,134.09,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12891,2026-02-02,MTA Metro,11.01,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12892,2026-02-02,Amazon,25.61,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12893,2026-02-02,Blue Bottle Coffee,8.96,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12894,2026-02-02,Ally HYSA Transfer,1181.86,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12895,2026-02-03,Nike,168.26,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12896,2026-02-03,Apple Store,1235.39,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12897,2026-02-03,Uber Eats,36.15,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12898,2026-02-04,AMC Theatres,29.49,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12899,2026-02-04,MTA Metro,31.68,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12900,2026-02-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12901,2026-02-05,Lyft,33.57,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12902,2026-02-05,Chipotle,20.34,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12903,2026-02-05,Target Grocery,35.9,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,nan,NY,2026,2,2026-02,Thursday,Weekday
+TX_12904,2026-02-05,Starbucks,5.74,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12905,2026-02-06,Steam Games,60.47,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12906,2026-02-06,DoorDash,29.17,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12907,2026-02-06,Costco Wholesale,308.03,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12908,2026-02-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,2,2026-02,Saturday,Weekend
+TX_12909,2026-02-07,Ticketmaster,112.37,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12910,2026-02-07,Target,127.59,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12911,2026-02-08,DoorDash,63.39,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12912,2026-02-08,Salon / Barber,76.49,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,nan,NY,2026,2,2026-02,Sunday,Weekend
+TX_12913,2026-02-08,AMC Theatres,52.05,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12914,2026-02-08,Lyft,27.83,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12915,2026-02-08,Trader Joe's,123.63,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12916,2026-02-09,Blue Bottle Coffee,11.19,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12917,2026-02-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12918,2026-02-10,Local Italian Trattoria,125.94,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12919,2026-02-10,Target Grocery,38.6,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12920,2026-02-11,Shell Oil,54.78,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12921,2026-02-11,Sushi Katsu,107.91,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12922,2026-02-11,Uber,57.6,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12923,2026-02-11,DoorDash,38.76,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12924,2026-02-12,ConEdison,206.61,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12925,2026-02-12,Sushi Katsu,74.28,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12926,2026-02-12,Blue Bottle Coffee,11.53,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12927,2026-02-13,Target Grocery,83.32,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12928,2026-02-13,AMC Theatres,39.85,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12929,2026-02-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12930,2026-02-14,Trader Joe's,86.77,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12931,2026-02-14,Sweetgreen,28.83,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12932,2026-02-14,Apple Store,1206.65,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12933,2026-02-15,TechNova Corp,5114.14,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12934,2026-02-15,Sweetgreen,32.28,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12935,2026-02-15,Salon / Barber,73.08,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12936,2026-02-15,Local Italian Trattoria,170.78,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12937,2026-02-15,Best Buy,99.48,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12938,2026-02-16,Costco Wholesale,168.45,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12939,2026-02-16,AMC Theatres,50.51,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12940,2026-02-16,Uber Eats,25.76,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12941,2026-02-17,Apple Store,277.2,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12942,2026-02-17,DoorDash,41.05,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12943,2026-02-17,Target,101.57,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12944,2026-02-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,2,2026-02,Wednesday,Weekday
+TX_12945,2026-02-18,Whole Foods,186.47,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12946,2026-02-18,Starbucks,4.89,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12947,2026-02-18,Uber Eats,22.61,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12948,2026-02-19,Lyft,26.16,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12949,2026-02-19,Amazon,55.88,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12950,2026-02-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12951,2026-02-20,Whole Foods,101.51,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12952,2026-02-21,Uber Eats,29.14,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12953,2026-02-21,Sushi Katsu,120.87,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12954,2026-02-21,Amazon,87.75,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12955,2026-02-21,Lyft,36.06,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12956,2026-02-21,Target,50.74,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12957,2026-02-21,Chipotle,34.19,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12958,2026-02-22,Target Grocery,75.53,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12959,2026-02-22,Uniqlo,85.67,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Sunday,Weekend
+TX_12960,2026-02-23,Uber Eats,33.02,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Monday,Weekday
+TX_12961,2026-02-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12962,2026-02-24,Ticketmaster,227.84,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12963,2026-02-24,Target Grocery,76.47,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12964,2026-02-24,Starbucks,6.85,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,2,2026-02,Tuesday,Weekday
+TX_12965,2026-02-25,Lyft,16.69,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12966,2026-02-25,DoorDash,37.84,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12967,2026-02-25,Shell Oil,42.17,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12968,2026-02-25,Lyft,36.93,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Wednesday,Weekday
+TX_12969,2026-02-26,Steam Games,39.66,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12970,2026-02-26,Target,136.91,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12971,2026-02-26,Nike,102.32,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Thursday,Weekday
+TX_12972,2026-02-27,Target,58.89,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12973,2026-02-27,Lyft,22.97,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Friday,Weekday
+TX_12974,2026-02-28,Ally Bank,79.37,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,2,2026-02,Saturday,Weekend
+TX_12975,2026-02-28,Uber,61.45,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12976,2026-02-28,Apple Store,218.71,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12977,2026-02-28,Salon / Barber,42.75,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,2,2026-02,Saturday,Weekend
+TX_12978,2026-03-01,TechNova Corp,5125.47,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,nan,NY,2026,3,2026-03,Sunday,Weekend
+TX_12979,2026-03-01,Avalon Bay Communities,2238.54,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_12980,2026-03-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_12981,2026-03-01,Sweetgreen,20.47,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_12982,2026-03-01,Uber Eats,44.67,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_12983,2026-03-01,MTA Metro,30.8,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_12984,2026-03-01,Whole Foods,159.07,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_12985,2026-03-02,Blue Bottle Coffee,13.71,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_12986,2026-03-02,CVS Pharmacy,62.05,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_12987,2026-03-02,MTA Metro,24.54,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_12988,2026-03-02,Local Italian Trattoria,80.29,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_12989,2026-03-02,Ally HYSA Transfer,1103.7,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_12990,2026-03-03,Sweetgreen,19.1,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_12991,2026-03-03,Trader Joe's,70.61,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_12992,2026-03-04,Best Buy,54.96,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_12993,2026-03-04,Target,70.72,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_12994,2026-03-04,Costco Wholesale,207.63,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_12995,2026-03-04,Target Grocery,37.47,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_12996,2026-03-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_12997,2026-03-05,Blue Bottle Coffee,9.13,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_12998,2026-03-06,Sweetgreen,22.24,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_12999,2026-03-06,Blue Bottle Coffee,10.59,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13000,2026-03-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,3,2026-03,Saturday,Weekend
+TX_13001,2026-03-07,MTA Metro,23.75,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13002,2026-03-07,Costco Wholesale,291.18,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13003,2026-03-07,Lyft,22.47,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13004,2026-03-07,Starbucks,4.78,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13005,2026-03-07,Ticketmaster,114.86,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13006,2026-03-08,Blue Bottle Coffee,6.54,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13007,2026-03-08,Sweetgreen,28.27,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13008,2026-03-08,Ticketmaster,227.51,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,nan,NY,2026,3,2026-03,Sunday,Weekend
+TX_13009,2026-03-09,Nike,157.23,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13010,2026-03-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13011,2026-03-10,Starbucks,7.18,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13012,2026-03-10,Nike,86.51,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13013,2026-03-10,Starbucks,8.51,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13014,2026-03-11,Best Buy,333.88,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13015,2026-03-11,MTA Metro,6.0,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13016,2026-03-11,DoorDash,34.43,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13017,2026-03-12,ConEdison,147.21,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13018,2026-03-12,MTA Metro,11.96,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13019,2026-03-13,Target,110.34,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13020,2026-03-13,MTA Metro,7.32,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13021,2026-03-13,Amazon,108.46,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13022,2026-03-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13023,2026-03-14,Blue Bottle Coffee,10.73,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13024,2026-03-14,Steam Games,46.97,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13025,2026-03-14,DoorDash,46.49,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13026,2026-03-15,TechNova Corp,5118.2,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13027,2026-03-15,Freelance Consulting,469.77,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,3,2026-03,Sunday,Weekend
+TX_13028,2026-03-15,Blue Bottle Coffee,12.13,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13029,2026-03-15,Uber,52.04,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13030,2026-03-15,MTA Metro,16.18,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13031,2026-03-16,Starbucks,6.76,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13032,2026-03-16,Target,91.53,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13033,2026-03-16,Steam Games,24.18,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13034,2026-03-17,Starbucks,4.86,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13035,2026-03-17,Local Italian Trattoria,109.74,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13036,2026-03-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,3,2026-03,Wednesday,Weekday
+TX_13037,2026-03-18,Starbucks,4.71,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13038,2026-03-18,Best Buy,242.12,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13039,2026-03-18,Whole Foods,148.38,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13040,2026-03-18,Sweetgreen,16.64,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13041,2026-03-19,Nike,107.93,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13042,2026-03-19,Best Buy,310.27,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13043,2026-03-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13044,2026-03-20,Costco Wholesale,181.86,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13045,2026-03-20,Best Buy,57.99,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13046,2026-03-20,DoorDash,58.28,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13047,2026-03-21,Dental Associates,236.14,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13048,2026-03-21,Target,101.75,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13049,2026-03-21,Zara,69.17,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13050,2026-03-21,Trader Joe's,69.17,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13051,2026-03-22,Best Buy,72.46,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13052,2026-03-22,Uber Eats,53.39,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13053,2026-03-22,MTA Metro,25.77,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13054,2026-03-22,Ticketmaster,88.66,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13055,2026-03-23,Salon / Barber,67.35,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13056,2026-03-23,Trader Joe's,72.35,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13057,2026-03-23,Chipotle,27.09,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13058,2026-03-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13059,2026-03-24,Mobil,43.25,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13060,2026-03-25,Target,103.4,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13061,2026-03-25,Uber Eats,54.4,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Wednesday,Weekday
+TX_13062,2026-03-26,DoorDash,34.91,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13063,2026-03-26,Whole Foods,80.93,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13064,2026-03-26,Sweetgreen,16.99,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13065,2026-03-26,Sushi Katsu,117.66,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Thursday,Weekday
+TX_13066,2026-03-27,Uber Eats,35.88,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Friday,Weekday
+TX_13067,2026-03-28,Target Grocery,39.84,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13068,2026-03-28,Lyft,17.97,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13069,2026-03-28,DoorDash,58.3,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13070,2026-03-28,Shell Oil,74.63,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13071,2026-03-28,Uniqlo,97.63,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13072,2026-03-28,Apple Store,788.7,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Saturday,Weekend
+TX_13073,2026-03-29,MTA Metro,13.04,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13074,2026-03-29,MTA Metro,25.86,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13075,2026-03-29,DoorDash,69.49,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13076,2026-03-29,CityMD Urgent Care,124.09,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13077,2026-03-29,Shell Oil,57.13,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13078,2026-03-29,Uniqlo,85.32,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Sunday,Weekend
+TX_13079,2026-03-30,Apple Store,234.05,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13080,2026-03-30,Apple Store,346.51,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Monday,Weekday
+TX_13081,2026-03-31,Ally Bank,83.03,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,3,2026-03,Tuesday,Weekday
+TX_13082,2026-03-31,Whole Foods,149.49,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13083,2026-03-31,AMC Theatres,27.67,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13084,2026-03-31,Sushi Katsu,58.32,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,3,2026-03,Tuesday,Weekday
+TX_13085,2026-04-01,TechNova Corp,5116.77,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13086,2026-04-01,Avalon Bay Communities,2271.71,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13087,2026-04-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13088,2026-04-01,Chipotle,18.62,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13089,2026-04-01,Mobil,46.38,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13090,2026-04-02,Uber Eats,54.95,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13091,2026-04-02,Blue Bottle Coffee,12.08,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13092,2026-04-02,Ally HYSA Transfer,908.64,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13093,2026-04-03,Target Grocery,71.04,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13094,2026-04-03,Salon / Barber,60.92,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13095,2026-04-03,Steam Games,25.91,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13096,2026-04-04,Sushi Katsu,108.31,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13097,2026-04-04,Blue Bottle Coffee,13.6,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13098,2026-04-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13099,2026-04-05,Lyft,19.6,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,nan,NY,2026,4,2026-04,Sunday,Weekend
+TX_13100,2026-04-05,Chipotle,23.16,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13101,2026-04-05,Ticketmaster,248.18,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13102,2026-04-05,CVS Pharmacy,44.28,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13103,2026-04-05,Salon / Barber,61.37,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13104,2026-04-06,Mobil,49.92,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13105,2026-04-06,Whole Foods,132.14,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13106,2026-04-06,Target,65.3,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13107,2026-04-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,4,2026-04,Tuesday,Weekday
+TX_13108,2026-04-07,Zara,133.89,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,nan,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13109,2026-04-08,Steam Games,68.49,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13110,2026-04-08,Best Buy,233.33,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13111,2026-04-09,Starbucks,8.06,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13112,2026-04-09,Blue Bottle Coffee,8.95,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13113,2026-04-09,Trader Joe's,75.88,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13114,2026-04-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13115,2026-04-10,Local Italian Trattoria,123.22,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13116,2026-04-10,DoorDash,39.26,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13117,2026-04-11,Starbucks,6.94,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13118,2026-04-11,Sushi Katsu,77.58,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,nan,NY,2026,4,2026-04,Saturday,Weekend
+TX_13119,2026-04-11,Sushi Katsu,168.24,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13120,2026-04-11,Best Buy,152.55,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13121,2026-04-11,Blue Bottle Coffee,7.47,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13122,2026-04-11,Uber Eats,45.89,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13123,2026-04-12,ConEdison,164.03,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13124,2026-04-12,Target Grocery,50.49,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13125,2026-04-12,Uber Eats,31.44,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13126,2026-04-12,Salon / Barber,70.33,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13127,2026-04-12,DoorDash,60.63,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13128,2026-04-12,Lyft,47.04,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13129,2026-04-12,Amazon,104.08,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13130,2026-04-13,Freelance Consulting,1241.03,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,4,2026-04,Monday,Weekday
+TX_13131,2026-04-13,Costco Wholesale,252.71,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13132,2026-04-13,Blue Bottle Coffee,8.22,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13133,2026-04-13,Mobil,56.65,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13134,2026-04-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13135,2026-04-14,Salon / Barber,85.56,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13136,2026-04-14,DoorDash,57.8,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13137,2026-04-15,TechNova Corp,5119.34,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13138,2026-04-15,Blue Bottle Coffee,13.33,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13139,2026-04-15,Zara,102.44,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13140,2026-04-15,Uber,18.9,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13141,2026-04-15,Blue Bottle Coffee,12.79,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13142,2026-04-16,Target,133.87,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13143,2026-04-16,Steam Games,59.74,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13144,2026-04-16,Uniqlo,86.94,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13145,2026-04-16,Lyft,33.9,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13146,2026-04-17,Best Buy,275.14,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13147,2026-04-17,Apple Store,333.19,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13148,2026-04-17,Amazon,111.59,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13149,2026-04-17,Emergency Dental Crown,731.67,Expense,Healthcare & Personal,Dental,Needs,No,Credit Card,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13150,2026-04-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,4,2026-04,Saturday,Weekend
+TX_13151,2026-04-18,Blue Bottle Coffee,6.97,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13152,2026-04-18,Mobil,64.44,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13153,2026-04-18,Starbucks,8.9,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13154,2026-04-18,Uber,57.57,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13155,2026-04-19,DoorDash,42.1,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13156,2026-04-19,Shell Oil,43.36,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13157,2026-04-19,Apple Store,752.46,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13158,2026-04-19,Blue Bottle Coffee,11.33,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13159,2026-04-19,AMC Theatres,42.13,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13160,2026-04-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13161,2026-04-20,Whole Foods,173.17,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13162,2026-04-20,Uber,55.2,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13163,2026-04-21,Local Italian Trattoria,94.48,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13164,2026-04-21,DoorDash,26.4,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13165,2026-04-21,Uber,30.73,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13166,2026-04-21,Ticketmaster,92.5,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13167,2026-04-22,Chipotle,17.7,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13168,2026-04-23,Blue Bottle Coffee,9.63,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13169,2026-04-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13170,2026-04-24,Uber Eats,47.03,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Friday,Weekday
+TX_13171,2026-04-25,Nike,138.83,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13172,2026-04-25,Zara,160.52,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13173,2026-04-25,Uber,54.76,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13174,2026-04-25,Steam Games,68.38,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13175,2026-04-25,Uniqlo,104.81,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13176,2026-04-25,Chipotle,26.38,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Saturday,Weekend
+TX_13177,2026-04-26,Sweetgreen,25.06,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13178,2026-04-26,Starbucks,5.66,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13179,2026-04-26,MTA Metro,8.9,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13180,2026-04-26,CVS Pharmacy,32.98,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13181,2026-04-26,CityMD Urgent Care,112.07,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13182,2026-04-26,Steam Games,52.61,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13183,2026-04-26,Marriott Hotel Stay,443.81,Expense,Travel & Vacation,Hotels,Wants,No,Credit Card,New York,NY,2026,4,2026-04,Sunday,Weekend
+TX_13184,2026-04-27,Apple Store,218.65,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13185,2026-04-27,Chipotle,14.83,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13186,2026-04-27,Sweetgreen,23.51,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13187,2026-04-27,DoorDash,54.78,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Monday,Weekday
+TX_13188,2026-04-28,Uber Eats,50.56,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13189,2026-04-28,Sweetgreen,20.19,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13190,2026-04-28,Blue Bottle Coffee,10.21,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Tuesday,Weekday
+TX_13191,2026-04-29,Uber,17.64,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13192,2026-04-29,Starbucks,6.45,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,4,2026-04,Wednesday,Weekday
+TX_13193,2026-04-30,Ally Bank,71.43,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,4,2026-04,Thursday,Weekday
+TX_13194,2026-04-30,Uber Eats,43.78,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,4,2026-04,Thursday,Weekday
+TX_13195,2026-05-01,TechNova Corp,5100.46,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13196,2026-05-01,Freelance Consulting,655.38,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,5,2026-05,Friday,Weekday
+TX_13197,2026-05-01,Avalon Bay Communities,2217.9,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13198,2026-05-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13199,2026-05-01,Trader Joe's,62.36,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13200,2026-05-01,DoorDash,51.2,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13201,2026-05-01,Blue Bottle Coffee,12.96,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13202,2026-05-01,Target,40.43,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13203,2026-05-02,Freelance Consulting,741.07,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,5,2026-05,Saturday,Weekend
+TX_13204,2026-05-02,Sweetgreen,29.49,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13205,2026-05-02,Chipotle,28.84,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13206,2026-05-02,Starbucks,5.21,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13207,2026-05-02,Apple Store,465.11,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13208,2026-05-02,Steam Games,21.12,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13209,2026-05-02,Ally HYSA Transfer,1076.56,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13210,2026-05-03,MTA Metro,21.64,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13211,2026-05-03,Salon / Barber,51.22,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13212,2026-05-03,Uber,32.97,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13213,2026-05-04,Uber Eats,57.76,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Monday,Weekday
+TX_13214,2026-05-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13215,2026-05-05,DoorDash,61.31,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13216,2026-05-05,Starbucks,7.06,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13217,2026-05-06,Lyft,35.07,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13218,2026-05-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,nan,CA,2026,5,2026-05,Thursday,Weekday
+TX_13219,2026-05-07,Shell Oil,68.34,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13220,2026-05-07,Blue Bottle Coffee,8.16,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13221,2026-05-07,MTA Metro,20.75,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13222,2026-05-07,Sweetgreen,23.14,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13223,2026-05-08,Best Buy,309.2,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13224,2026-05-08,Sweetgreen,16.02,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13225,2026-05-08,Blue Bottle Coffee,9.63,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13226,2026-05-08,Trader Joe's,66.43,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13227,2026-05-09,Sweetgreen,21.74,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13228,2026-05-09,Apple Store,987.02,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13229,2026-05-09,Marriott Hotel Stay,563.1,Expense,Travel & Vacation,Hotels,Wants,No,Credit Card,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13230,2026-05-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13231,2026-05-10,CityMD Urgent Care,44.47,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13232,2026-05-10,Target,41.3,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13233,2026-05-10,CVS Pharmacy,39.74,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13234,2026-05-10,Apple Store,932.16,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13235,2026-05-10,Zara,176.33,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13236,2026-05-11,Starbucks,5.89,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Monday,Weekday
+TX_13237,2026-05-12,ConEdison,145.76,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13238,2026-05-12,Mobil,65.62,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13239,2026-05-12,Amazon,107.24,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13240,2026-05-12,Best Buy,255.06,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13241,2026-05-13,Walgreens,19.77,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13242,2026-05-13,Mobil,66.95,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13243,2026-05-13,Target,62.9,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13244,2026-05-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13245,2026-05-14,Shell Oil,57.07,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13246,2026-05-14,Amazon,148.03,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13247,2026-05-15,TechNova Corp,5106.47,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13248,2026-05-15,Sweetgreen,16.55,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13249,2026-05-16,Uber,16.39,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13250,2026-05-16,AMC Theatres,41.6,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13251,2026-05-16,Whole Foods,63.96,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13252,2026-05-17,Freelance Consulting,863.46,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,5,2026-05,Sunday,Weekend
+TX_13253,2026-05-17,Blue Bottle Coffee,9.05,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13254,2026-05-17,Target,74.92,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13255,2026-05-17,Trader Joe's,97.87,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13256,2026-05-17,Local Italian Trattoria,161.37,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13257,2026-05-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,5,2026-05,Monday,Weekday
+TX_13258,2026-05-18,Salon / Barber,44.79,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Monday,Weekday
+TX_13259,2026-05-18,Target,102.84,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Monday,Weekday
+TX_13260,2026-05-18,Salon / Barber,85.84,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Monday,Weekday
+TX_13261,2026-05-18,Salon / Barber,92.16,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Monday,Weekday
+TX_13262,2026-05-19,Steam Games,42.09,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13263,2026-05-19,Uniqlo,77.04,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13264,2026-05-19,Shell Oil,49.46,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13265,2026-05-19,Nike,147.02,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13266,2026-05-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13267,2026-05-20,Uber Eats,41.72,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13268,2026-05-20,Uber Eats,43.77,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13269,2026-05-20,Chipotle,27.58,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13270,2026-05-21,Target,114.7,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13271,2026-05-22,AMC Theatres,33.51,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13272,2026-05-23,Apple Store,803.02,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,nan,NY,2026,5,2026-05,Saturday,Weekend
+TX_13273,2026-05-23,Dental Associates,253.9,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13274,2026-05-23,Amazon,27.76,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13275,2026-05-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13276,2026-05-24,Steam Games,40.06,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13277,2026-05-24,Sushi Katsu,83.87,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13278,2026-05-24,Whole Foods,82.03,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13279,2026-05-25,Starbucks,9.19,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Monday,Weekday
+TX_13280,2026-05-26,Apple Store,1013.31,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13281,2026-05-26,Target,127.02,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13282,2026-05-26,Best Buy,265.14,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13283,2026-05-26,Apple Store,1084.77,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Tuesday,Weekday
+TX_13284,2026-05-27,Uber Eats,30.04,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Wednesday,Weekday
+TX_13285,2026-05-28,MTA Metro,7.18,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13286,2026-05-28,Zara,172.64,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13287,2026-05-28,Shell Oil,66.17,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13288,2026-05-28,Sushi Katsu,76.36,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Thursday,Weekday
+TX_13289,2026-05-29,DoorDash,60.99,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13290,2026-05-29,Mobil,63.1,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13291,2026-05-29,Marriott Hotel Stay,751.26,Expense,Travel & Vacation,Hotels,Wants,No,Credit Card,New York,NY,2026,5,2026-05,Friday,Weekday
+TX_13292,2026-05-30,DoorDash,39.36,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13293,2026-05-30,Lyft,32.75,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13294,2026-05-30,DoorDash,50.7,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Saturday,Weekend
+TX_13295,2026-05-31,Ally Bank,79.89,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,5,2026-05,Sunday,Weekend
+TX_13296,2026-05-31,Nike,173.54,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13297,2026-05-31,Trader Joe's,116.29,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13298,2026-05-31,Costco Wholesale,305.55,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13299,2026-05-31,Starbucks,5.91,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13300,2026-05-31,Best Buy,221.26,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13301,2026-05-31,MTA Metro,3.22,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,5,2026-05,Sunday,Weekend
+TX_13302,2026-06-01,TechNova Corp,5127.38,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13303,2026-06-01,Avalon Bay Communities,2209.37,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13304,2026-06-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13305,2026-06-01,Ticketmaster,210.95,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13306,2026-06-01,Nike,180.16,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13307,2026-06-01,Trader Joe's,45.27,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13308,2026-06-02,Sushi Katsu,97.97,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13309,2026-06-02,Ticketmaster,167.68,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13310,2026-06-02,Amazon,106.46,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13311,2026-06-02,AMC Theatres,28.15,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13312,2026-06-02,Ally HYSA Transfer,1070.68,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13313,2026-06-03,Steam Games,60.59,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13314,2026-06-03,Amazon,63.14,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,nan,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13315,2026-06-03,Uniqlo,77.17,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13316,2026-06-03,Costco Wholesale,160.71,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13317,2026-06-04,Nike,209.26,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Thursday,Weekday
+TX_13318,2026-06-04,Amazon,28.9,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,nan,NY,2026,6,2026-06,Thursday,Weekday
+TX_13319,2026-06-04,MTA Metro,12.12,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Thursday,Weekday
+TX_13320,2026-06-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13321,2026-06-05,Sweetgreen,19.32,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13322,2026-06-05,Zara,165.62,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13323,2026-06-06,Costco Wholesale,250.54,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13324,2026-06-06,Whole Foods,187.32,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13325,2026-06-06,Dental Associates,166.43,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13326,2026-06-06,Uber Eats,54.83,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13327,2026-06-06,Apple Store,808.59,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13328,2026-06-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,6,2026-06,Sunday,Weekend
+TX_13329,2026-06-07,Whole Foods,124.03,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13330,2026-06-07,Blue Bottle Coffee,9.43,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13331,2026-06-08,Costco Wholesale,220.04,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13332,2026-06-08,Uniqlo,49.29,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13333,2026-06-08,Starbucks,8.73,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13334,2026-06-09,Sweetgreen,25.44,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13335,2026-06-09,Costco Wholesale,286.03,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13336,2026-06-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13337,2026-06-10,Starbucks,7.58,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13338,2026-06-10,DoorDash,26.3,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13339,2026-06-11,Sweetgreen,16.3,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Thursday,Weekday
+TX_13340,2026-06-12,ConEdison,129.85,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13341,2026-06-12,Uber Eats,39.84,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13342,2026-06-12,MTA Metro,17.35,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13343,2026-06-12,Ticketmaster,246.67,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13344,2026-06-13,Sweetgreen,22.31,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13345,2026-06-13,Blue Bottle Coffee,10.62,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13346,2026-06-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13347,2026-06-14,Chipotle,30.48,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13348,2026-06-14,Local Italian Trattoria,178.42,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13349,2026-06-14,Sweetgreen,21.59,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13350,2026-06-14,Whole Foods,180.8,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13351,2026-06-14,Target Grocery,83.5,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13352,2026-06-14,Uber Eats,47.87,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13353,2026-06-15,TechNova Corp,5101.65,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13354,2026-06-15,Lyft,14.8,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13355,2026-06-15,Costco Wholesale,269.64,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13356,2026-06-16,Freelance Consulting,968.36,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,6,2026-06,Tuesday,Weekday
+TX_13357,2026-06-16,MTA Metro,8.06,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13358,2026-06-17,Lyft,32.44,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13359,2026-06-17,Local Italian Trattoria,180.28,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13360,2026-06-17,Delta Air Lines Flight,459.47,Expense,Travel & Vacation,Flights,Wants,No,Credit Card,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13361,2026-06-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,6,2026-06,Thursday,Weekday
+TX_13362,2026-06-18,Ticketmaster,234.36,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Thursday,Weekday
+TX_13363,2026-06-18,Dental Associates,240.26,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Thursday,Weekday
+TX_13364,2026-06-18,Uber Eats,47.03,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Thursday,Weekday
+TX_13365,2026-06-19,Sushi Katsu,133.13,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13366,2026-06-19,Target Grocery,58.86,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13367,2026-06-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13368,2026-06-20,Costco Wholesale,276.02,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13369,2026-06-20,Chipotle,19.56,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13370,2026-06-21,Blue Bottle Coffee,7.28,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13371,2026-06-21,Starbucks,7.33,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13372,2026-06-21,MTA Metro,8.52,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13373,2026-06-21,Starbucks,8.11,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13374,2026-06-21,Ticketmaster,140.74,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13375,2026-06-22,Apple Store,243.56,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13376,2026-06-22,Local Italian Trattoria,109.69,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13377,2026-06-23,Local Italian Trattoria,114.01,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13378,2026-06-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13379,2026-06-24,Costco Wholesale,217.02,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13380,2026-06-24,Local Italian Trattoria,151.17,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13381,2026-06-24,Whole Foods,155.61,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Wednesday,Weekday
+TX_13382,2026-06-25,Shell Oil,47.1,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Thursday,Weekday
+TX_13383,2026-06-26,Amazon,164.35,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13384,2026-06-26,Starbucks,5.33,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13385,2026-06-26,Uniqlo,40.16,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13386,2026-06-26,Best Buy,298.01,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Friday,Weekday
+TX_13387,2026-06-27,Chipotle,30.44,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13388,2026-06-27,Local Italian Trattoria,135.71,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13389,2026-06-27,Target,46.9,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13390,2026-06-27,AMC Theatres,40.53,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13391,2026-06-27,Blue Bottle Coffee,7.38,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,6,2026-06,Saturday,Weekend
+TX_13392,2026-06-28,AMC Theatres,31.62,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13393,2026-06-28,MTA Metro,27.41,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Sunday,Weekend
+TX_13394,2026-06-29,Uber Eats,22.01,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13395,2026-06-29,Target,76.19,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13396,2026-06-29,Best Buy,50.72,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13397,2026-06-29,Whole Foods,93.16,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,6,2026-06,Monday,Weekday
+TX_13398,2026-06-30,Ally Bank,70.71,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,6,2026-06,Tuesday,Weekday
+TX_13399,2026-06-30,Sushi Katsu,127.44,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,6,2026-06,Tuesday,Weekday
+TX_13400,2026-07-01,TechNova Corp,5132.27,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13401,2026-07-01,Avalon Bay Communities,2264.07,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13402,2026-07-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13403,2026-07-01,DoorDash,43.96,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13404,2026-07-01,Local Italian Trattoria,76.14,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13405,2026-07-01,MTA Metro,16.08,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13406,2026-07-01,Amazon,47.57,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13407,2026-07-02,Costco Wholesale,179.93,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13408,2026-07-02,Blue Bottle Coffee,6.93,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13409,2026-07-02,Uber Eats,40.84,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13410,2026-07-02,Ally HYSA Transfer,1276.03,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13411,2026-07-03,Apple Store,315.07,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13412,2026-07-03,Ticketmaster,142.36,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13413,2026-07-04,Shell Oil,41.9,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13414,2026-07-04,Steam Games,30.95,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13415,2026-07-04,DoorDash,42.2,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13416,2026-07-04,Apple Store,786.12,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13417,2026-07-04,Blue Bottle Coffee,11.96,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13418,2026-07-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13419,2026-07-05,Uber Eats,30.34,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13420,2026-07-05,MTA Metro,22.36,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,nan,NY,2026,7,2026-07,Sunday,Weekend
+TX_13421,2026-07-05,Uber Eats,38.05,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13422,2026-07-05,Amazon,94.51,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13423,2026-07-05,Uber Eats,60.67,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13424,2026-07-06,DoorDash,40.85,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13425,2026-07-06,Apple Store,1153.16,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13426,2026-07-06,Target,112.56,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13427,2026-07-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,7,2026-07,Tuesday,Weekday
+TX_13428,2026-07-07,Walgreens,33.49,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13429,2026-07-07,Emergency Dental Crown,850.24,Expense,Healthcare & Personal,Dental,Needs,No,Credit Card,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13430,2026-07-08,Apple Store,123.52,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13431,2026-07-08,DoorDash,38.5,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13432,2026-07-08,Blue Bottle Coffee,10.74,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13433,2026-07-08,DoorDash,25.89,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13434,2026-07-09,Sushi Katsu,89.88,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13435,2026-07-09,Best Buy,280.18,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13436,2026-07-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13437,2026-07-10,MTA Metro,9.26,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13438,2026-07-10,Apple Store,1283.89,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13439,2026-07-10,Apple Store,1116.79,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13440,2026-07-10,MTA Metro,24.5,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13441,2026-07-11,AMC Theatres,36.62,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13442,2026-07-11,Zara,123.01,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13443,2026-07-11,Shell Oil,65.67,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13444,2026-07-11,Best Buy,194.61,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13445,2026-07-11,Amazon,92.21,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13446,2026-07-11,Lyft,19.83,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13447,2026-07-12,ConEdison,189.71,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13448,2026-07-12,CVS Pharmacy,62.75,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13449,2026-07-12,Blue Bottle Coffee,9.6,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13450,2026-07-12,Blue Bottle Coffee,7.52,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13451,2026-07-13,Amazon,132.65,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13452,2026-07-13,Shell Oil,51.57,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13453,2026-07-13,Uber Eats,45.88,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13454,2026-07-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13455,2026-07-14,Starbucks,9.01,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13456,2026-07-15,TechNova Corp,5102.99,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13457,2026-07-15,Shell Oil,51.49,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13458,2026-07-16,MTA Metro,7.86,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13459,2026-07-17,Uniqlo,110.82,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13460,2026-07-17,Target,44.5,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13461,2026-07-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,7,2026-07,Saturday,Weekend
+TX_13462,2026-07-18,DoorDash,52.4,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13463,2026-07-18,Zara,68.15,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13464,2026-07-18,Whole Foods,173.49,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13465,2026-07-18,Shell Oil,74.77,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13466,2026-07-19,Local Italian Trattoria,139.68,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13467,2026-07-19,AMC Theatres,24.34,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13468,2026-07-19,Starbucks,6.54,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13469,2026-07-19,CVS Pharmacy,36.3,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13470,2026-07-19,Lyft,27.77,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13471,2026-07-19,Uber Eats,27.53,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13472,2026-07-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13473,2026-07-20,Sushi Katsu,76.75,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13474,2026-07-21,Target,120.63,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13475,2026-07-21,Uber Eats,30.96,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13476,2026-07-21,Sweetgreen,18.31,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13477,2026-07-22,Whole Foods,110.33,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13478,2026-07-22,Salon / Barber,43.09,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13479,2026-07-22,DoorDash,31.63,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13480,2026-07-22,Uber Eats,36.33,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13481,2026-07-23,Shell Oil,58.52,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13482,2026-07-23,Uber Eats,42.02,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13483,2026-07-23,MTA Metro,31.4,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13484,2026-07-23,Starbucks,4.74,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13485,2026-07-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13486,2026-07-24,Salon / Barber,44.29,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13487,2026-07-24,Target Grocery,42.85,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13488,2026-07-25,Target,111.01,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13489,2026-07-25,AMC Theatres,33.32,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13490,2026-07-25,DoorDash,32.91,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13491,2026-07-25,Apple Store,455.55,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13492,2026-07-25,Target Grocery,62.27,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13493,2026-07-25,Sweetgreen,24.21,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Saturday,Weekend
+TX_13494,2026-07-26,Lyft,18.25,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13495,2026-07-26,Uniqlo,83.06,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Sunday,Weekend
+TX_13496,2026-07-27,Uber Eats,25.62,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Monday,Weekday
+TX_13497,2026-07-28,Target,55.77,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13498,2026-07-28,Local Italian Trattoria,99.81,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13499,2026-07-28,Mobil,65.21,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Tuesday,Weekday
+TX_13500,2026-07-29,Starbucks,5.63,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13501,2026-07-29,Amazon,37.36,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Wednesday,Weekday
+TX_13502,2026-07-30,Whole Foods,100.27,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13503,2026-07-30,Ticketmaster,233.16,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Thursday,Weekday
+TX_13504,2026-07-31,Ally Bank,76.13,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,7,2026-07,Friday,Weekday
+TX_13505,2026-07-31,Ticketmaster,257.63,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13506,2026-07-31,Uniqlo,63.92,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13507,2026-07-31,Best Buy,343.12,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13508,2026-07-31,Sweetgreen,24.64,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,7,2026-07,Friday,Weekday
+TX_13509,2026-08-01,TechNova Corp,5110.34,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13510,2026-08-01,Freelance Consulting,980.43,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,8,2026-08,Saturday,Weekend
+TX_13511,2026-08-01,Avalon Bay Communities,2301.78,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13512,2026-08-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13513,2026-08-01,MTA Metro,12.88,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13514,2026-08-01,Uber Eats,38.7,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13515,2026-08-01,Uber Eats,27.62,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13516,2026-08-01,Steam Games,35.56,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13517,2026-08-02,Shell Oil,42.13,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13518,2026-08-02,Apple Store,571.39,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13519,2026-08-02,Blue Bottle Coffee,11.48,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13520,2026-08-02,Ally HYSA Transfer,1167.09,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13521,2026-08-03,Freelance Consulting,755.61,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,8,2026-08,Monday,Weekday
+TX_13522,2026-08-03,Uber Eats,46.91,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13523,2026-08-03,Ticketmaster,211.15,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13524,2026-08-03,Salon / Barber,53.0,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13525,2026-08-04,DoorDash,48.86,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13526,2026-08-04,Best Buy,209.96,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13527,2026-08-04,AMC Theatres,30.19,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13528,2026-08-04,Zara,57.99,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13529,2026-08-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13530,2026-08-05,Trader Joe's,95.49,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13531,2026-08-05,Salon / Barber,43.8,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13532,2026-08-06,Blue Bottle Coffee,9.84,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13533,2026-08-06,Steam Games,64.76,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13534,2026-08-06,Target Grocery,68.75,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13535,2026-08-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,8,2026-08,Friday,Weekday
+TX_13536,2026-08-07,AMC Theatres,34.13,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13537,2026-08-07,AMC Theatres,54.26,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13538,2026-08-08,Uber Eats,27.77,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13539,2026-08-08,Costco Wholesale,167.3,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13540,2026-08-09,Freelance Consulting,572.8,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,8,2026-08,Sunday,Weekend
+TX_13541,2026-08-09,Steam Games,51.65,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13542,2026-08-09,Shell Oil,35.44,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13543,2026-08-09,MTA Metro,27.95,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13544,2026-08-09,Chipotle,28.15,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13545,2026-08-09,Uniqlo,86.16,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13546,2026-08-09,Whole Foods,190.84,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13547,2026-08-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13548,2026-08-10,Ticketmaster,200.78,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13549,2026-08-10,Salon / Barber,37.63,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13550,2026-08-10,Zara,114.36,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13551,2026-08-11,Starbucks,5.92,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13552,2026-08-11,Uniqlo,49.12,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13553,2026-08-11,Uber Eats,23.88,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13554,2026-08-11,DoorDash,57.43,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13555,2026-08-12,Freelance Consulting,731.52,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,8,2026-08,Wednesday,Weekday
+TX_13556,2026-08-12,ConEdison,145.95,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13557,2026-08-12,AMC Theatres,28.06,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13558,2026-08-12,Starbucks,4.86,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13559,2026-08-12,DoorDash,52.18,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13560,2026-08-12,Target Grocery,50.39,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13561,2026-08-13,Whole Foods,93.11,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13562,2026-08-13,MTA Metro,33.02,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13563,2026-08-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13564,2026-08-14,DoorDash,47.91,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13565,2026-08-15,TechNova Corp,5120.49,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13566,2026-08-15,Nike,96.15,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13567,2026-08-15,MTA Metro,25.09,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13568,2026-08-15,Target Grocery,66.2,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13569,2026-08-15,Salon / Barber,85.85,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13570,2026-08-16,Amazon,40.36,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13571,2026-08-16,MTA Metro,29.34,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13572,2026-08-17,Lyft,22.81,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13573,2026-08-17,Sushi Katsu,134.46,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13574,2026-08-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,8,2026-08,Tuesday,Weekday
+TX_13575,2026-08-18,DoorDash,49.88,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13576,2026-08-18,Nike,85.4,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13577,2026-08-18,Target Grocery,66.32,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13578,2026-08-19,Uber,24.98,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13579,2026-08-19,Chipotle,25.2,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13580,2026-08-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13581,2026-08-20,Ticketmaster,141.63,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13582,2026-08-20,Chipotle,14.41,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13583,2026-08-21,Target,139.2,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13584,2026-08-21,Ticketmaster,166.8,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13585,2026-08-22,Dental Associates,227.37,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13586,2026-08-22,Starbucks,5.69,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13587,2026-08-23,Target,37.5,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13588,2026-08-23,Nike,72.78,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13589,2026-08-23,Uber Eats,62.67,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13590,2026-08-23,DoorDash,49.81,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13591,2026-08-23,Amazon,54.4,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13592,2026-08-23,Uniqlo,120.13,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13593,2026-08-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13594,2026-08-24,MTA Metro,26.18,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13595,2026-08-25,DoorDash,48.57,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Tuesday,Weekday
+TX_13596,2026-08-26,Freelance Consulting,1017.35,Income,Income,Freelance / Side Gig,Income,No,Online Transfer,San Francisco,CA,2026,8,2026-08,Wednesday,Weekday
+TX_13597,2026-08-26,Uber Eats,32.68,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13598,2026-08-26,Dental Associates,104.78,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Wednesday,Weekday
+TX_13599,2026-08-27,Mobil,45.3,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13600,2026-08-27,Uber Eats,48.69,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13601,2026-08-27,Local Italian Trattoria,178.3,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Thursday,Weekday
+TX_13602,2026-08-28,Sweetgreen,18.05,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13603,2026-08-28,Starbucks,6.44,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13604,2026-08-28,Local Italian Trattoria,138.31,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13605,2026-08-28,Mobil,50.53,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Friday,Weekday
+TX_13606,2026-08-29,DoorDash,75.43,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13607,2026-08-29,AMC Theatres,30.24,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13608,2026-08-29,Amazon,84.17,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13609,2026-08-29,Uber Eats,43.53,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13610,2026-08-29,Uniqlo,64.75,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13611,2026-08-29,Blue Bottle Coffee,8.82,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,8,2026-08,Saturday,Weekend
+TX_13612,2026-08-30,Uber Eats,42.69,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13613,2026-08-30,Target,104.53,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Sunday,Weekend
+TX_13614,2026-08-31,Ally Bank,74.0,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,8,2026-08,Monday,Weekday
+TX_13615,2026-08-31,AMC Theatres,47.87,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13616,2026-08-31,CVS Pharmacy,54.49,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13617,2026-08-31,Mobil,38.54,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,8,2026-08,Monday,Weekday
+TX_13618,2026-09-01,TechNova Corp,5129.69,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13619,2026-09-01,Avalon Bay Communities,2281.64,Expense,Housing,Rent/Mortgage,Needs,Yes,ACH / Electronic,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13620,2026-09-01,Equinox Gym,185.0,Expense,Entertainment & Subscriptions,Fitness,Wants,Yes,Recurring Card,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13621,2026-09-01,Zara,168.7,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13622,2026-09-01,Target Grocery,68.88,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13623,2026-09-01,Starbucks,5.56,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13624,2026-09-02,Nike,135.29,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13625,2026-09-02,Ally HYSA Transfer,1036.37,Transfer,Savings & Investments,High-Yield Savings,Savings,Yes,Internal Transfer,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13626,2026-09-03,Blue Bottle Coffee,10.88,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13627,2026-09-03,Costco Wholesale,160.93,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,nan,NY,2026,9,2026-09,Thursday,Weekday
+TX_13628,2026-09-03,Uniqlo,123.91,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13629,2026-09-04,Shell Oil,70.53,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13630,2026-09-04,DoorDash,31.74,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13631,2026-09-05,Verizon Fios,79.99,Expense,Housing,Utilities,Needs,Yes,Credit Card,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13632,2026-09-05,CityMD Urgent Care,76.53,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13633,2026-09-05,Uber,16.92,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13634,2026-09-05,Uber Eats,40.36,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13635,2026-09-06,Target,110.64,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13636,2026-09-06,Local Italian Trattoria,201.92,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13637,2026-09-07,Netflix,15.49,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,San Jose,CA,2026,9,2026-09,Monday,Weekday
+TX_13638,2026-09-07,Sweetgreen,25.71,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13639,2026-09-07,Nike,155.29,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13640,2026-09-08,DoorDash,52.99,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13641,2026-09-08,Amazon,76.27,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13642,2026-09-09,Uniqlo,108.95,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13643,2026-09-09,Shell Oil,72.34,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13644,2026-09-09,Sweetgreen,22.54,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13645,2026-09-10,Spotify,10.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13646,2026-09-10,Uniqlo,109.15,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13647,2026-09-11,Nike,111.83,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13648,2026-09-11,Blue Bottle Coffee,7.62,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13649,2026-09-11,Best Buy,186.14,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13650,2026-09-12,ConEdison,144.39,Expense,Housing,Utilities,Needs,Yes,ACH / Electronic,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13651,2026-09-12,Mobil,43.36,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13652,2026-09-12,Mobil,51.15,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13653,2026-09-12,Salon / Barber,58.92,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13654,2026-09-12,Amazon,173.87,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13655,2026-09-13,Shell Oil,41.19,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13656,2026-09-13,Amazon,153.08,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13657,2026-09-13,Apple MacBook Pro,1970.62,Expense,Shopping & Retail,Electronics,Wants,No,Credit Card,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13658,2026-09-14,HBO Max,15.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13659,2026-09-14,Sweetgreen,20.81,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13660,2026-09-15,TechNova Corp,5119.27,Income,Income,Salary & Wages,Income,Yes,ACH Transfer,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13661,2026-09-15,Apple Store,1204.58,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13662,2026-09-15,Uber Eats,38.57,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13663,2026-09-15,Walgreens,28.53,Expense,Healthcare & Personal,Pharmacy,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13664,2026-09-15,Whole Foods,173.38,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13665,2026-09-16,Uniqlo,95.85,Expense,Shopping & Retail,Clothing & Apparel,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13666,2026-09-17,Mobil,46.43,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13667,2026-09-17,Target Grocery,28.83,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13668,2026-09-18,Geico,138.5,Expense,Transportation,Auto Insurance,Needs,Yes,ACH / Electronic,Chevy Chase,MD,2026,9,2026-09,Friday,Weekday
+TX_13669,2026-09-18,CityMD Urgent Care,61.83,Expense,Healthcare & Personal,Medical,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13670,2026-09-18,DoorDash,54.75,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13671,2026-09-19,MTA Metro,22.77,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13672,2026-09-19,Blue Bottle Coffee,9.3,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13673,2026-09-19,Sushi Katsu,145.85,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13674,2026-09-19,Target,52.41,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13675,2026-09-19,Uber,55.82,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13676,2026-09-20,Apple Services,2.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13677,2026-09-20,DoorDash,66.78,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13678,2026-09-20,Blue Bottle Coffee,11.14,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13679,2026-09-20,Starbucks,6.38,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13680,2026-09-20,Blue Bottle Coffee,10.3,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13681,2026-09-20,DoorDash,46.24,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13682,2026-09-21,Blue Bottle Coffee,11.2,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13683,2026-09-22,DoorDash,38.47,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13684,2026-09-23,MTA Metro,30.62,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13685,2026-09-23,Apple Store,562.92,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13686,2026-09-23,Target,118.82,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13687,2026-09-23,Shell Oil,56.44,Expense,Transportation,Fuel,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13688,2026-09-24,YouTube Premium,13.99,Expense,Entertainment & Subscriptions,Streaming,Wants,Yes,Recurring Card,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13689,2026-09-24,Salon / Barber,93.15,Expense,Healthcare & Personal,Personal Care,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13690,2026-09-24,Amazon,108.5,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13691,2026-09-24,MTA Metro,33.69,Expense,Transportation,Public Transit,Needs,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13692,2026-09-24,Blue Bottle Coffee,13.32,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Thursday,Weekday
+TX_13693,2026-09-25,Local Italian Trattoria,142.51,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13694,2026-09-25,Steam Games,41.88,Expense,Entertainment & Subscriptions,Recreation & Events,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Friday,Weekday
+TX_13695,2026-09-26,Target,124.8,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13696,2026-09-26,Blue Bottle Coffee,12.51,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13697,2026-09-26,Sweetgreen,23.07,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13698,2026-09-26,Lyft,28.77,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13699,2026-09-26,Target,55.59,Expense,Shopping & Retail,Online Retail,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13700,2026-09-26,Blue Bottle Coffee,13.15,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Saturday,Weekend
+TX_13701,2026-09-27,Lyft,42.93,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13702,2026-09-27,Trader Joe's,63.39,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13703,2026-09-27,Local Italian Trattoria,140.95,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Sunday,Weekend
+TX_13704,2026-09-28,Apple Store,1149.01,Expense,Shopping & Retail,Electronics,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13705,2026-09-28,Chipotle,18.21,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13706,2026-09-28,Blue Bottle Coffee,9.02,Expense,Food & Dining,Coffee Shops,Wants,No,In-Store POS,New York,NY,2026,9,2026-09,Monday,Weekday
+TX_13707,2026-09-29,Trader Joe's,67.16,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13708,2026-09-29,Lyft,21.26,Expense,Transportation,Rideshare,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Tuesday,Weekday
+TX_13709,2026-09-30,Ally Bank,73.21,Income,Income,Investment & Interest,Income,Yes,Direct Deposit,Midvale,UT,2026,9,2026-09,Wednesday,Weekday
+TX_13710,2026-09-30,Chipotle,23.78,Expense,Food & Dining,Restaurants,Wants,No,E-Commerce / Online,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13711,2026-09-30,DoorDash,28.43,Expense,Food & Dining,Food Delivery,Wants,No,E-Commerce / Online,nan,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13712,2026-09-30,Target Grocery,38.73,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Wednesday,Weekday
+TX_13713,2026-09-30,Trader Joe's,86.3,Expense,Food & Dining,Groceries,Needs,No,In-Store POS,New York,NY,2026,9,2026-09,Wednesday,Weekday

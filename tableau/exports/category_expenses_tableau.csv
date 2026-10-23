@@ -1,0 +1,11 @@
+category,budget_bucket,total_spend,transaction_count,avg_ticket_size,pct_of_total_spend
+Shopping & Retail,Wants,56486.8,232,243.48,40.85
+Housing,Needs,25183.34,30,839.44,18.21
+Food & Dining,Wants,15174.51,362,41.92,10.97
+Food & Dining,Needs,14112.55,110,128.3,10.2
+Entertainment & Subscriptions,Wants,9500.82,151,62.92,6.87
+Healthcare & Personal,Needs,5736.04,46,124.7,4.15
+Transportation,Needs,5432.12,115,47.24,3.93
+Travel & Vacation,Wants,2691.93,5,538.39,1.95
+Healthcare & Personal,Wants,2095.44,33,63.5,1.52
+Transportation,Wants,1878.95,58,32.4,1.36

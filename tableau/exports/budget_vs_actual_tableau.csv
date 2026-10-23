@@ -1,0 +1,12 @@
+year_month,category,budget_bucket,monthly_target,actual_spent,remaining_budget,utilization_pct,performance_status
+2026-09,Entertainment & Subscriptions,Wants,280.0,286.33,-6.33,102.3,EXCEEDED
+2026-09,Food & Dining,Wants,550.0,1971.66,-1421.66,358.5,EXCEEDED
+2026-09,Groceries,Needs,650.0,0.0,650.0,0.0,HEALTHY
+2026-09,Health & Medical,Needs,200.0,0.0,200.0,0.0,HEALTHY
+2026-09,Healthcare & Personal,Wants,250.0,318.96,-68.96,127.6,EXCEEDED
+2026-09,Housing,Needs,2400.0,2506.02,-106.02,104.4,EXCEEDED
+2026-09,Savings & Investments,Savings,1200.0,0.0,1200.0,0.0,HEALTHY
+2026-09,Shopping,Wants,400.0,0.0,400.0,0.0,HEALTHY
+2026-09,Shopping & Retail,Wants,250.0,7056.22,-6806.22,2822.5,EXCEEDED
+2026-09,Transportation,Needs,300.0,772.72,-472.72,257.6,EXCEEDED
+2026-09,Utilities,Needs,350.0,0.0,350.0,0.0,HEALTHY

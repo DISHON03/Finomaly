@@ -1,0 +1,5 @@
+account_id,name,type
+ACC_CHK_01,Chase Total Checking,Checking
+ACC_SAV_01,Ally High-Yield Savings,Savings
+ACC_CC_01,Chase Sapphire Preferred,Credit Card
+ACC_CC_02,Amex Blue Cash Everyday,Credit Card
